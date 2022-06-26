@@ -29,13 +29,13 @@
 --------------------------------------------------------------------------------
 ##Result
 #LoginWindow
-![](lab8/img/login.jpeg = 250x250)
+![](https://github.com/andrey551/lab8/img/login.jpeg = 250x250)
 #MainWindow
-![](lab8/img/MainWIndow.jpeg = 250x250)
+![](https://github.com/andrey551/lab8/img/MainWIndow.jpeg = 250x250)
 #Canvas
-![](lab8/img/CanvasTab.jpeg = 250x250)
+![](https://github.com/andrey551/lab8/img/CanvasTab.jpeg = 250x250)
 #ChangeLanguage
-![](lab8/img/changeLang.jpeg = 250x250)
+![](https://github.com/andrey551/lab8/img/changeLang.jpeg = 250x250)
 #AskWindow
-![](lab8/img/askWindow.jpeg = 250x250)
+![](https://github.com/andrey551/lab8/img/askWindow.jpeg = 250x250)
 
