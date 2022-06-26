@@ -30,13 +30,13 @@
 --------------------------------------------------------------------------------
 #Result
 LoginWindow:
-![login](https://github.com/andrey551/lab8/blob/main/img/login.jpeg =250x250)
+![login](https://github.com/andrey551/lab8/blob/main/img/login.jpeg)
 MainWindow:
-![main](https://github.com/andrey551/lab8/blob/main/img/mainWIndow.jpeg =250x250)
+![main](https://github.com/andrey551/lab8/blob/main/img/mainWIndow.jpeg)
 Canvas:
-![canvas](https://github.com/andrey551/lab8/blob/main/img/canvasTab.jpeg =250x250)
+![canvas](https://github.com/andrey551/lab8/blob/main/img/canvasTab.jpeg)
 ChangeLanguage:
-![change](https://github.com/andrey551/lab8/blob/main/img/changeLang.jpeg =250x250)
+![change](https://github.com/andrey551/lab8/blob/main/img/changeLang.jpeg)
 AskWindow:
-![ask](https://github.com/andrey551/lab8/blob/main/img/askWindow.jpeg =250x500)
+![ask](https://github.com/andrey551/lab8/blob/main/img/askWindow.jpeg)
 
