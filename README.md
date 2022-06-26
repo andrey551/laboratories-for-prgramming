@@ -1,4 +1,4 @@
-# Lab 7 programming
+# Lab 8 programming
 ## Professor: **Письмак Алексей Евгеньевич**
 ## Student: Dau Cong Tuan Anh
 ## Group: P3114
