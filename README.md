@@ -29,13 +29,13 @@
 --------------------------------------------------------------------------------
 ##Result
 #LoginWindow
-[](img/login = 250x250)
+[](lab8/img/login = 250x250)
 #MainWindow
-[](img/MainWIndow = 250x250)
+[](lab8/img/MainWIndow = 250x250)
 #Canvas
-[](img/CanvasTab = 250x250)
+[](lab8/img/CanvasTab = 250x250)
 #ChangeLanguage
-[](img/changeLang = 250x250)
+[](lab8/img/changeLang = 250x250)
 #AskWindow
-[](img/askWindow = 250x250)
+[](lab8/img/askWindow = 250x250)
 
