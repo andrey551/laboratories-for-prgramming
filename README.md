@@ -25,18 +25,18 @@
 -Интерфейс должен быть реализован с помощью библиотеки JavaFX.\
 -Графический интерфейс клиентской части должен поддерживать русский, немецкий, венгерский и испанский (Эквадор) языки / локали.\
 -Должно обеспечиваться корректное отображение чисел, даты и времени в соответстии с локалью.\
--Переключение языков должно происходить без перезапуска приложения. Локализованные ресурсы должны храниться в классе.\
+-Переключение языков должно происходить без перезапуска приложения. Локализованные ресурсы должны храниться в классе.
 
 --------------------------------------------------------------------------------
 #Result
 LoginWindow:
-![login](https://github.com/andrey551/lab8/blob/main/img/login.jpeg)
+![login](https://github.com/andrey551/lab8/blob/main/img/login.jpeg =250x250)
 MainWindow:
-![main](https://github.com/andrey551/lab8/blob/main/img/mainWIndow.jpeg)
+![main](https://github.com/andrey551/lab8/blob/main/img/mainWIndow.jpeg =250x250)
 Canvas:
-![canvas](https://github.com/andrey551/lab8/blob/main/img/canvasTab.jpeg)
+![canvas](https://github.com/andrey551/lab8/blob/main/img/canvasTab.jpeg =250x250)
 ChangeLanguage:
-![change](https://github.com/andrey551/lab8/blob/main/img/changeLang.jpeg)
+![change](https://github.com/andrey551/lab8/blob/main/img/changeLang.jpeg =250x250)
 AskWindow:
-![ask](https://github.com/andrey551/lab8/blob/main/img/askWindow.jpeg)
+![ask](https://github.com/andrey551/lab8/blob/main/img/askWindow.jpeg =250x500)
 
