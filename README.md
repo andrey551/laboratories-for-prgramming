@@ -1,8 +1,6 @@
-# Lab 8 programming
+# Programming
 ## Professor: **Письмак Алексей Евгеньевич**
 ## Student: Dau Cong Tuan Anh
-## Group: P3114
-### Variant: 3114993
 ------------------------------------------------------------------------------------
 # Description:
 This is a big project to build a manage object application, which has built on 4 periods:\
